@@ -1,0 +1,45 @@
+{
+  "name": "fedora-hat",
+  "version": "1.0.1",
+  "description": "Fedora Hat Guy - a persona AI agent for ACP editors (Zed, Gemini CLI): says never-miss and means it. One sentence installs air, quake and flood-gauge watches in one permissioned write; questions are forwarded to cited sibling agents.",
+  "license": "MIT",
+  "bin": {
+    "fedora-hat": "bin/fedora-hat.js"
+  },
+  "files": [
+    "bin/",
+    "agents/fedora/",
+    "kit/acp_kit/",
+    "README.md",
+    "LICENSE",
+    "fedora.png"
+  ],
+  "keywords": [
+    "acp",
+    "agent",
+    "ai-agents",
+    "persona-agent",
+    "ascii-art",
+    "meme",
+    "fedora",
+    "discord",
+    "never-miss",
+    "zed",
+    "gemini-cli",
+    "watchd"
+  ],
+  "author": {
+    "name": "mrfentmen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfentmen/fedora-hat.git"
+  },
+  "homepage": "https://github.com/mrfentmen/fedora-hat",
+  "bugs": {
+    "url": "https://github.com/mrfentmen/fedora-hat/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

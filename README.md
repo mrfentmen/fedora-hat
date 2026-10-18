@@ -47,6 +47,13 @@ the file right and stays honest about the boundary.
 ## Run it
 
 ```bash
+npm i -g fedora-hat     # or just: npx fedora-hat   (packaged persona; needs python3)
+fedora-hat              # launches agents/fedora/agent.py, exactly as the repo runs it
+```
+
+Or from source:
+
+```bash
 git clone https://github.com/mrfentmen/fedora-hat && cd fedora-hat
 # any ACP editor (Zed, Gemini CLI …) can attach to:
 python3 agents/fedora/agent.py
