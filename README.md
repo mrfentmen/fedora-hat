@@ -7,10 +7,12 @@
 > your waifu pillow, and you STILL keep half an eye on codebases for errors. Nothing
 > gets past you. You never miss.
 
-<!-- picture slot: drop fedora.png next to this README; then embed with
-     ![Fedora Hat Guy](fedora.png) -->
+![Fedora Hat Guy](fedora.png)
 
-Until the portrait lands, the archive stands in:
+*The portrait — generated in the glowing-ASCII style, which is fitting for a guy who lives
+in character grids.*
+
+Until the custom piece lands, the archive also stands:
 
 ```text
         .----.
