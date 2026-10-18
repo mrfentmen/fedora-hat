@@ -12,19 +12,6 @@
 *The portrait — generated in the glowing-ASCII style, which is fitting for a guy who lives
 in character grids.*
 
-Until the custom piece lands, the archive also stands:
-
-```text
-        .----.
-       /  _   \
-       |=[_]==|
-  (`.--.____.---.'\
-   `-./'\\_.'
-      |  /.  .||
-       \:-: .'
-  LGB   `-'                     (via ascii.co.uk/art/hat, by LGB — folk art, credited)
-```
-
 ## What it is
 
 A **persona agent** — not a mascot: the persona is the voice, and underneath it runs a
