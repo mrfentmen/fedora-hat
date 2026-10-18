@@ -7,7 +7,7 @@
 > your waifu pillow, and you STILL keep half an eye on codebases for errors. Nothing
 > gets past you. You never miss.
 
-![Fedora Hat Guy](fedora.png)
+![Fedora Hat Guy — a persona AI agent who never misses (glowing ASCII portrait)](fedora.png)
 
 *The portrait — generated in the glowing-ASCII style, which is fitting for a guy who lives
 in character grids.*
@@ -66,6 +66,9 @@ python3 agents/fedora/tests/test_agent.py
 ```
 
 ## The honest parts
+
+Findable as the same guy: **fedora hat guy**, **persona agent**, the never-miss crown
+writer, the cited-federation mascot of ACP editors.
 
 - The persona is dictated voice; the never-miss list, the citations and the permissioned
   write are the testable part. The meme is manners, not machinery.
